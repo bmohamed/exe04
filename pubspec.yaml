@@ -1,0 +1,8 @@
+name: ex04
+version: 0.0.1
+author: Mohamed Bouanane 
+description: Application d un exemple d utilisation de dartlero, exercice 04 du cours.
+homepage: http://ondart.me/
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
