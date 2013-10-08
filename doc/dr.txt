@@ -1,0 +1,14 @@
+ex04
+
+8/10
+
+pubspec.lock @GitHub ?
+
+(-1) bool get EnAttente
+->
+bool get enAttente
+voir https://www.dartlang.org/articles/style-guide/
+
+(-1) formater le code
+voir https://www.dartlang.org/articles/style-guide/
+
